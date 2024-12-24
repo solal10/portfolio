@@ -91,7 +91,7 @@ export const navItems = [
   export const testimonials = [
     {
       quote:
-        "Solal worked as a teaching assistant in SW Project Managemnt, where he instructed and led several teams in submitting a sw project . Elad demonstrated leadership, responsiability, as well as high level serviceability, detailed oriented, and managed crisses in a calm and efficient manner. In addition, I have supervised the final project of Elad, where he demonstrated high passion for technology, outstanding learning curve, planning skills, and pursuing excellence, which were reflected in high-level project.",
+        "Solal worked as a teaching assistant in SW Project Managemnt, where he instructed and led several teams in submitting a sw project . Solal demonstrated leadership, responsiability, as well as high level serviceability, detailed oriented, and managed crisses in a calm and efficient manner. In addition, I have supervised the final project of Solal, where he demonstrated high passion for technology, outstanding learning curve, planning skills, and pursuing excellence, which were reflected in high-level project.",
       name: "Benny Sand",
       title: "VP Knowledge and Innovation of Qualitest",
     },
